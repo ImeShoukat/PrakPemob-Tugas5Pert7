@@ -81,6 +81,8 @@ Pastikan Dart SDK sudah terinstall.
 
 ```bash
 dart run main.dart
+```
+
 
 ### 🧠 Penjelasan Singkat Logika Program
 
