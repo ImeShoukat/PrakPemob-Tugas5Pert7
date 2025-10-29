@@ -80,7 +80,7 @@ Tim 2: Caca, Deni
 Pastikan Dart SDK sudah terinstall.
 
 ```bash
-dart run main.dart
+dart main.dart
 ```
 
 
